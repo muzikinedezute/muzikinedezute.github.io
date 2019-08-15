@@ -8421,6 +8421,17 @@ body {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #e9d89d !important;
 }
+.cid-rzdFatcQdh {
+  background-image: url("../../../assets/images/20161127-131330-2000x1500.jpg");
+}
+.cid-rzdFatcQdh .mbr-section-subtitle {
+  font-style: italic;
+  letter-spacing: 1rem;
+}
+.cid-rzdFatcQdh .mbr-text,
+.cid-rzdFatcQdh .mbr-section-btn {
+  color: #232323;
+}
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
   background: #232323;
