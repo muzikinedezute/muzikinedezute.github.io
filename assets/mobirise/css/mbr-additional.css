@@ -38,10 +38,10 @@ body {
 }
 .display-5 {
   font-family: 'Amiko-Regular';
-  font-size: 1.6rem;
+  font-size: 1.5rem;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 2.56rem;
+  font-size: 2.4rem;
 }
 .display-7 {
   font-family: 'Amiko-Regular';
@@ -72,9 +72,9 @@ body {
     line-height: calc( 1.4 * (1.14rem + (1.4 - 1.14) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 1.28rem;
-    font-size: calc( 1.21rem + (1.6 - 1.21) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.21rem + (1.6 - 1.21) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.2rem;
+    font-size: calc( 1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -2718,6 +2718,26 @@ body {
   padding-top: 2rem;
 }
 .cid-r2I4Z2kvOV .card-wrapper {
+  height: 100%;
+}
+.cid-rB7gJzL0IU {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #e4d295;
+}
+.cid-rB7gJzL0IU h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-rB7gJzL0IU p {
+  color: #767676;
+  text-align: left;
+}
+.cid-rB7gJzL0IU .card-box {
+  padding-top: 2rem;
+}
+.cid-rB7gJzL0IU .card-wrapper {
   height: 100%;
 }
 .cid-qTkzRZLJNu .navbar {
